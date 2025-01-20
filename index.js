@@ -5,10 +5,10 @@ const client = new Discord.Client();
 client.once("ready", () => {
     console.log('ready!!!')
 
-    client.user.setActivity("Tutorial bot!", { type: "STREAMING", url: "https://www.twitch.tv/lookinsomething" }) // YOU CAN PUT ANY TWITCH STREAMING LINK IN THIS AREA
+    client.user.setActivity("Tutorial bot!", { type: "Watching", url: "https://www.youtube.com/" }) // YOU CAN PUT ANY TWITCH STREAMING LINK IN THIS AREA
 })
 
-client.login("NzY3Mjg1MDgyNjc4NjI0Mjc2.X4vr6w.Go2_FHJFUtvM4u9GpLldAZ_niR8") // Put your token here
+client.login("MTMwNTk4MjkzMjY0NDc5NDQwMA.GQnAPU.GGBVwf88IFog0xS16UKeC7Xt1axtXoBMSCKbak") // Put your token here
 
 // REMEMBER TO CLICK Ctrl + S to save it or else it won't work!!!
 // MY TOKEN WILL BE RESET WHENEVER I POSTED OUT A VIDEO ABOUT TUTORIAL!
