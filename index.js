@@ -1,16 +1,63 @@
-const Discord = require('discord.js');
+Skip to content
+anshulxyz/privacy-policy-discord-bots.txt
+Created 2 years ago • Report abuse
+Clone this repository at &lt;script src=&quot;https://gist.github.com/anshulxyz/e5700e8730a8e2439626b3943326a1f3.js&quot;&gt;&lt;/script&gt;
+<script src="https://gist.github.com/anshulxyz/e5700e8730a8e2439626b3943326a1f3.js"></script>
+Code
+Revisions
+1
+Stars
+6
+Forks
+54
+privacy-policy-discord-bots.txt
+Privacy Policy for [Bot Name]
 
-const client = new Discord.Client();
+This Privacy Policy governs the collection, use, and sharing of personal information by [Bot Name], a Discord bot developed by [Developer Name]. By using [Bot Name], you agree to the terms of this Privacy Policy.
 
-client.once("ready", () => {
-    console.log('ready!!!')
+Information We Collect
 
-    client.user.setActivity("Tutorial bot!", { type: "STREAMING", url: "https://www.twitch.tv/lookinsomething" }) // YOU CAN PUT ANY TWITCH STREAMING LINK IN THIS AREA
-})
+We collect information that you provide to us through your use of the bot, such as your Discord user ID and username, server and channel information, and message content. We may also collect usage data, such as the frequency and duration of your use of the bot.
 
-client.login("NzY3Mjg1MDgyNjc4NjI0Mjc2.X4vr6w.Go2_FHJFUtvM4u9GpLldAZ_niR8") // Put your token here
+How We Use Your Information
 
-// REMEMBER TO CLICK Ctrl + S to save it or else it won't work!!!
-// MY TOKEN WILL BE RESET WHENEVER I POSTED OUT A VIDEO ABOUT TUTORIAL!
+We use your information to operate and improve [Bot Name], including to provide support and respond to your requests. We may also use your information to develop new features or services, to conduct research and analytics, and to comply with legal obligations.
 
-// REMEMBER TO CLICK CTRL + S TO SAVE THE WORK YOU'VE DONE!
+Sharing Your Information
+
+We do not sell or share your personal information with third parties. However, we may disclose your information in response to legal process or a request from a law enforcement agency or regulatory authority.
+
+Data Retention
+
+We retain your information for as long as necessary to provide [Bot Name]’s services or as required by law. We will delete your information upon your request or when it is no longer needed.
+
+Data Security
+
+We take reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no security measure is perfect, and we cannot guarantee the security of your information.
+
+Changes to this Policy
+
+We may update this Privacy Policy from time to time, and we will post the updated policy on our website. Your continued use of [Bot Name] after we make changes to this policy indicates your acceptance of the revised policy.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at [Developer Email].
+
+Effective Date
+
+This Privacy Policy is effective as of [Effective Date].
+Comment
+ 
+Leave a comment
+ 
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
